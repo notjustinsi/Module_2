@@ -1,0 +1,66 @@
+img {
+    max-width: 100%;
+    max-width: 200px;
+    border: 1px solid #333;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li {
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: rgb(81, 97, 243);
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+#about {
+    background-color: rgba(182, 182, 182, 0.658);
+    color: #333 ;
+    padding: 20px;
+}
+
+#work {
+    background-color: rgba(182, 182, 182, 0.658);
+    color: #333; 
+    padding: 20px;
+}
+
+#contact {
+    background-color: #333;
+    color: white;
+    padding: 5px;
+}
+
+#reach {
+    background-color: rgba(182, 182, 182, 0.658);
+    padding: 5px;
+}
+
+.aboutlist{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.aboutlist li {
+    margin-right: 20px;
+}
